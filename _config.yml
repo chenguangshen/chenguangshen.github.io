@@ -1,7 +1,8 @@
 # General
 name: Chenguang Shen
 description: Homepage
-url: /
+# url: 127.0.0.1:4000
+# baseurl: 127.0.0.1:4000
 
 markdown: kramdown
 highlighter: rouge
@@ -21,7 +22,6 @@ lsi: false
 safe: true
 source: https://github.com/chenguangshen/chenguangshen.github.io
 incremental: false
-highlighter: rouge
 gist:
  noscript: false
 
