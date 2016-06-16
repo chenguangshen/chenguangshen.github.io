@@ -71,6 +71,10 @@ nav {
 }*/
 
 
+article p i a {
+    border-bottom: .125em solid #ccc;
+}
+
 article p a {
     /*border-bottom: .125em solid #ccc;*/
     display: inline;
