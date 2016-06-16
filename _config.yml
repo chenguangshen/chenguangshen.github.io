@@ -1,0 +1,29 @@
+# General
+name: Chenguang Shen
+description: Homepage
+url: http://127.0.0.1:4000
+
+markdown: kramdown
+highlighter: rouge
+
+paginate: 4
+permalink: /:title
+
+# Social share and comments.
+twitter: X1O1
+github: chenguangshen
+linkedin: chenguangshen
+facebook: cgshen
+googlescholar: https://scholar.google.com/citations?user=ImWmkrQAAAAJ&hl=en
+email: cgshen@cs.ucla.edu
+
+lsi: false
+safe: true
+source: [https://github.com/chenguangshen/chenguangshen.github.io]
+incremental: false
+highlighter: rouge
+gist:
+ noscript: false
+
+# Gems
+gems: [jekyll-paginate]
