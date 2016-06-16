@@ -19,7 +19,7 @@ email: cgshen@cs.ucla.edu
 
 lsi: false
 safe: true
-source: [https://github.com/chenguangshen/chenguangshen.github.io]
+source: https://github.com/chenguangshen/chenguangshen.github.io
 incremental: false
 highlighter: rouge
 gist:
