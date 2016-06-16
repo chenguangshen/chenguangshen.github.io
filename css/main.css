@@ -124,7 +124,7 @@ article li a:hover, article li a:active {
 
 .main-header .description { color: #e5e5e5; }
 .main-header .main-menu { padding: 0.1em; }
-.links {padding: 1.28em !important;}
+.links {padding: 1.43em !important;}
 
 /* ------------------------------------------------------------------------
 -  The content. -
@@ -176,6 +176,10 @@ hr {
     }
 
     nav.module { padding-top: 1.5em; }
+
+    .title a {
+        font-size: 1.8em !important;
+    }
 
 
 /* ------------------------------------------------------------------------
