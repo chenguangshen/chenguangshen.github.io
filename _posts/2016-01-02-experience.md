@@ -5,6 +5,7 @@ layout: post
 <ul>
 <li>
 	<b>Software Engineer Intern</b>, Facebook, Menlo Park, CA, Jun. 2016 - Sep. 2016
+	<br />
 </li>
 <li>
 	<b>Research Intern</b>, Microsoft Research, Redmond, WA, Mar. 2015 - Jun. 2015
