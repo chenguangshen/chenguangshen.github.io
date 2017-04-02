@@ -4,6 +4,10 @@ layout: post
 
 <ul>
 <li>
+	<b>Research Scientist</b>, Facebook, Menlo Park, CA, Jan. 2017 - Now
+</li>
+<br />
+<li>
 	<b>Software Engineer Intern</b>, Facebook, Menlo Park, CA, Jun. 2016 - Sep. 2016
 </li>
 <br />
